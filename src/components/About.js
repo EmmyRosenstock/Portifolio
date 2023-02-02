@@ -39,7 +39,7 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={vueIcon}
+                    icon="logos:python"
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
