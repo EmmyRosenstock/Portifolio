@@ -1,0 +1,74 @@
+{
+    "basic_info": {
+      "name": "Emmy Rosenstock Mendes",
+      "titles": [ "Front-end Developer", "Back-end Developer", "Graphic Design"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/EmmyRosenstock",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/emmy-rosenstock-18063548/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Watsapp",
+          "url": "https://api.whatsapp.com/send?1=pt_BR&phone=5583991121819",
+          "class": "fab fa-whatsapp" 
+        }
+
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }, {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

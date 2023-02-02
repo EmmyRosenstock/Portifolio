@@ -1,0 +1,115 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Emmy Rosenstock Mendes. An enthusiast in the world of technology, to which she dedicates a good part of her time studying web development, graduated in Computer Science and passionate about what she does. ",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Move-se",
+        "startDate": "2020",
+        "description": "This application was created based on the pomodoro technique where it says that every 25 minutes that the person is in front of the computer has to do an exercise, stretching .....",
+        "images": [
+          "images/portfolio/Move-se/move-se02.png",
+          "images/portfolio/Move-se/01move-se.png"
+        ],
+        "url": "https://mova-se-emmyrosenstock.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-reactjs-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+         ]
+      },
+      {
+        "title": "Starwars",
+        "startDate": "2022",
+        "description": "Page with a list of all Starwars characters, ships, planets and their characteristics",
+        "images": [
+          "images/portfolio/Starwars/Starwars.png",
+          "images/portfolio/Starwars/starwars2.png"
+        ],
+        "url": "https://starwarss-git-main-emmyrosenstock.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "HackNews",
+        "startDate": "2023",
+        "description": "A fake news portal where you can choose the news category",
+        "images": [
+          "images/portfolio/hacknews/hacknw1.png",
+          "images/portfolio/hacknews/hkn2.png"
+        ],
+        "url": "https://hackn.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-Redux-plain",
+            "name": "Redux"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tecnologia Unica",
+        "title": "Full-stack Developer",
+        "years": "08.2021 - 02.2022",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "React",
+          "JavaScript",
+          "TypeScript",
+          "Material-ui",
+          "C#",
+          ".NET",
+          "Azure",
+          "MySql"
+          
+        ]
+      },
+      {
+        "company": "Fractal Tecnologia",
+        "title": "Front-end Developer",
+        "years": "02.2022 - 08.2022",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "React",
+          "Redux",
+          "Material-ui",
+          "TypeScript"
+          
+        ]
+      }
+    ]
+  }
